@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Upeksha jayawikrame
+# I'm Upeksha Jayawikrama
 ## CSE Undergrad at UOM
 
 - 🔭 I’m currently working on surveyY Platform
