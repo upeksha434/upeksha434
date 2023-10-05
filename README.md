@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Upeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=upeksha434&show_icons=true&theme=transparent)
+
 <!--
 **upeksha434/upeksha434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
